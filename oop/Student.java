@@ -1,3 +1,4 @@
+package MyJavaPractice.oop;
 import java.util.*;
 public class Student {
     String name,rollno;

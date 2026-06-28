@@ -83,5 +83,6 @@ class ManagementOfExaminations {
                 }
             }
         }while(choice == "Re-Enter");
+        in.close();
     }
 }
